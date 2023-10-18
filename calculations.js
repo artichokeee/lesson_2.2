@@ -9,7 +9,7 @@ function decreaseBalance(x, y) {
 }
 
 function divideBalanceByAccounts(x, y, z) {
-  x = (x + y) / z;
+  x = (x + z) / y;
   return x;
 }
 
