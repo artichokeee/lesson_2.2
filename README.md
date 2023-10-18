@@ -1,4 +1,4 @@
-# JavaScript Assignment Operators
+## JavaScript Assignment Operators
 
 | OPERATOR NAME             | SHORTHAND OPERATOR | MEANING |
 |---------------------------|--------------------|---------|
@@ -13,3 +13,9 @@
 | Bitwise AND Assignment    | a&=b               | a=a&b   |
 | Bitwise OR Assignment     | a|=b               | a=a | b |
 | Bitwise XOR Assignment    | a^=b               | a=a^b   |
+
+## Инкремент и декремент
+
+**Инкремент** ++ это унарная операция, которая увеличивает на единицу число, записанное в переменную
+
+**Декремент** -- это унарная операция, которая уменьшает на единицу число, записанное в переменную
