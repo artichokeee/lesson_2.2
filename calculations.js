@@ -25,12 +25,12 @@ function getRestAfterDivision(x, y) {
   return x;
 }
 
-function incrementBalance(x, y) {
+function incrementBalance(x) {
   x++;
   return x;
 }
 
-function decrementBalance(x, y) {
+function decrementBalance(x) {
   x--;
   return x;
 }
